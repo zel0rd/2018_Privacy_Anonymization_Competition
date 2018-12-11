@@ -3,6 +3,8 @@
 **BOBKUSHIELDJR [최우수상]**
 ==========
 
+<br>
+  
 ### STEP1. [[SUMMARY_LINK]](https://github.com/zel0rd/2018_privacy_anonymization_competition/blob/master/Summary.md)
 - 개최, 설명회, 예선, 본선,결과에 대한 일정요약
   
