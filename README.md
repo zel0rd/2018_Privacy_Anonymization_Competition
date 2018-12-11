@@ -3,7 +3,7 @@
 ----
 
 ### STEP1. [[SUMMARY_LINK]](https://github.com/zel0rd/2018_privacy_anonymization_competition/blob/master/Summary.md)
-- 개최, 설명회, 예선, 본선에 대한 내용
+- 개최, 설명회, 예선, 본선,결과에 대한 일정요약
   
 <br>
 
@@ -18,6 +18,7 @@
 
 ### STEP3. [[개인정보_원본추정]](https://github.com/zel0rd/2018_privacy_anonymization_competition/tree/master/2.본선)
 - 개인정보 원본추정(ARX, R, Python 이용)  
+- 비식별데이터 분류 및 분석, 원본 추정 기술 결정, 원본 추정, 결과분석
 - Jaccard similarity, Euclidean distance 알고리즘
 ----
 
