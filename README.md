@@ -31,7 +31,10 @@
 
 <br>
 
-## LANGUAGE : ARX, R, Python,
+## LANGUAGE : ARX, R, Python
+
+<br>
+
 ## CONTACT
 ### BLOG : [http://zel0rd.tistroy.com](http://zel0rd.tistory.com)
 ### EMAIL : zelord.kwoun@gmail.com
