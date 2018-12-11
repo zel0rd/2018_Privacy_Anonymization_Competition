@@ -7,4 +7,4 @@
  
  
 ### 설명회
-[image | https://www.kisa.or.kr/uploadfile/images/000020/20180911094129617_ZEOLG651.jpg]
+![비식별 경진대회 설명회](https://www.kisa.or.kr/uploadfile/images/000020/20180911094129617_ZEOLG651.jpg)
