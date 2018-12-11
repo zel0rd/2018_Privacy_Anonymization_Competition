@@ -17,8 +17,7 @@
 ----
 
 ### 설명회 (2018-09-19)
-비식별 경진대회 설명회 : 
-![비식별 경진대회 설명회](https://github.com/zel0rd/2018_privacy_anonymization_competition/blob/master/References/01.%5BKISA%5D2018개인정보비식별경진대회_설명회.jpg)
+비식별 경진대회 설명회 : ![비식별 경진대회 설명회](https://github.com/zel0rd/2018_privacy_anonymization_competition/blob/master/References/01.%5BKISA%5D2018개인정보비식별경진대회_설명회.jpg){: width="50%"}
 
 ----
 
