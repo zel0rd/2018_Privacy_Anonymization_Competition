@@ -15,7 +15,9 @@
  
 ## 개최안내 (2018-09-03)
 
+
 비식별 경진대회 개최 : [[KISA_LINK]](https://www.kisa.or.kr/notice/press_View.jsp?mode=view&p_No=8&b_No=8&d_No=1705)
+  
 ![개최](https://github.com/zel0rd/2018_privacy_anonymization_competition/blob/master/References/비식별경진대회.jpg)
 ----
  
