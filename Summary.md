@@ -1,6 +1,6 @@
-** 2018_privacy_anonymization_competition **
+**2018_privacy_anonymization_competition**
 ==========
-** BOBKUSHIELDJR [최우수상] **
+**BOBKUSHIELDJR [최우수상]**
 ==========
 
 ## Schedule
