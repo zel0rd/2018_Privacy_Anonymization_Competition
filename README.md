@@ -32,3 +32,5 @@
 <br>
 
 ## LANGUAGE : ARX, R, Python,
+### BLOG : [[LINK]](http://zel0rd.tistory.com)
+### EMAIL : zelord.kwoun@gmail.com
