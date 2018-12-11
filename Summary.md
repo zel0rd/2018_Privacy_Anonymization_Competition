@@ -1,6 +1,8 @@
-# 2018_privacy_anonymization_competition 
-## BOBKUSHIELDJR [최우수상]
-----
+** 2018_privacy_anonymization_competition **
+==========
+** BOBKUSHIELDJR [최우수상] **
+==========
+
 ## Schedule
  - 개최안내 (2018-09-03)
  - 설명회 (2018-09-19)
