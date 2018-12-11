@@ -18,8 +18,12 @@
 
 ### STEP3. [[개인정보_원본추정]](https://github.com/zel0rd/2018_privacy_anonymization_competition/tree/master/2.본선)
 - 개인정보 원본추정(ARX, R, Python 이용)  
-- 비식별데이터 분류 및 분석, 원본 추정 기술 결정, 원본 추정, 결과분석
-- Jaccard similarity, Euclidean distance 알고리즘
+- 비식별데이터 분류 및 분석, 비식별 기술 추정 및 결정
+- 원본 데이터 비식별 기술 적용, QI식별자 설정 후 동질집합 분류, 원본과 비식별 유사도 측정
+- 유사도 측정 알고리즘 -> Jaccard similarity, Euclidean distance 알고리즘
+- 유사도를 기반으로 원본 추정(Key Matching), 원본 추정률 결정
+- 원본추정 방지 제언
+
 ----
 
 <br>
