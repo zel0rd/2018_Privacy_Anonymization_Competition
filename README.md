@@ -1,4 +1,4 @@
-# 2018_privacy_anonymization_competition (BOBKUSHIELDJR)
+# 2018_privacy_anonymization_competition (BOBKUSHIELDJR_최우수)
 
 ## Schedule
  - 설명회
