@@ -53,8 +53,7 @@
 비식별 경진대회 본선결과 : [[KISA_LINK]](https://www.kisa.or.kr/notice/press_View.jsp?cPage=1&mode=view&p_No=8&b_No=8&d_No=1737)
 [[보안뉴스_LINK]](https://www.boannews.com/media/view.asp?idx=75133)
 
-![본선결과](https://github.com/zel0rd/2018_privacy_anonymization_competition/blob/master/References/스크린샷%202018-12-11%20오후%202.14.35.png)
-![본선결과](https://github.com/zel0rd/2018_privacy_anonymization_competition/blob/master/References/스크린샷%202018-12-11%20오후%202.30.58.png)
+![본선결과](https://github.com/zel0rd/2018_privacy_anonymization_competition/blob/master/References/스크린샷%202018-12-11%20오후%202.33.05.png)
 ![본선사진](https://github.com/zel0rd/2018_privacy_anonymization_competition/blob/master/References/비식별본선사진.jpg)
 
 ----
