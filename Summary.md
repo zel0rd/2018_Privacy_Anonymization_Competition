@@ -52,6 +52,8 @@
 ## 4. 개인정보 재식별 경진대회[본선] (2018-11-29 ~ 2018-11-30)
 비식별 경진대회 본선결과 : [[KISA_LINK]](https://www.kisa.or.kr/notice/press_View.jsp?cPage=1&mode=view&p_No=8&b_No=8&d_No=1737)
 ![본선결과](https://github.com/zel0rd/2018_privacy_anonymization_competition/blob/master/References/스크린샷%202018-12-11%20오후%202.14.35.png)
+![예선사진](https://github.com/zel0rd/2018_privacy_anonymization_competition/blob/master/References/비식별본선사진.jpg)
+
 ----
  <br>
  <br>
