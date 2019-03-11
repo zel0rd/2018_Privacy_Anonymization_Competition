@@ -64,8 +64,8 @@
  
 ## 5. 결과 및 시상 (2018-12-12)
 
-(https://github.com/zel0rd/2018_Privacy_Anonymization_Competition/blob/master/References/%EC%8B%9C%EC%83%81%EC%8B%9D1.jpg)
-(https://github.com/zel0rd/2018_Privacy_Anonymization_Competition/blob/master/References/%EC%8B%9C%EC%83%81%EC%8B%9D2.jpg)
+![시상식1](https://github.com/zel0rd/2018_Privacy_Anonymization_Competition/blob/master/References/%EC%8B%9C%EC%83%81%EC%8B%9D1.jpg)
+![시상식2](https://github.com/zel0rd/2018_Privacy_Anonymization_Competition/blob/master/References/%EC%8B%9C%EC%83%81%EC%8B%9D2.jpg)
 ----
  <br>
  <br>
